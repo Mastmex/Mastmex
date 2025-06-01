@@ -23,9 +23,9 @@ C++ • C • CMake • Git • Java • Python • SQL • Docker • Verilog �
 
 ### Main projects
 
-- [**RISC-V Processor**](link) — Educational project || **Processor based on RISC-V architecture** || *Verilog/SystemVerilog*  
-- [**Simple Information System**](link) — Educational project || **System for collecting information via APIs** || *C++/Python/Bash/Docker*  
-- [**8086 Emulator**](link) — Educational project || **Emulator of the Intel&copy; 8086 processor** || *C++/CMake* 
+- [**RISC-V Processor**](https://github.com/Mastmex/RISC-V_Verilog) — Educational project || **Processor based on RISC-V architecture** || *Verilog/SystemVerilog*  
+- [**Simple Information System**](https://github.com/Mastmex/isod-3) — Educational project || **System for collecting information via APIs** || *C++/Python/Bash/Docker*  
+- [**8086 Emulator**](https://github.com/Mastmex/86) — Educational project || **Emulator of the Intel&copy; 8086 processor** || *C++/CMake* 
 
 ### Contact
 

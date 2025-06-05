@@ -25,7 +25,8 @@ C++ • C • CMake • Git • Java • Python • SQL • Docker • Verilog �
 
 - [**RISC-V Processor**](https://github.com/Mastmex/RISC-V_Verilog) — Educational project || **Processor based on RISC-V architecture** || *Verilog/SystemVerilog*  
 - [**Simple Information System**](https://github.com/Mastmex/isod-3) — Educational project || **System for collecting information via APIs** || *C++/Python/Bash/Docker*  
-- [**8086 Emulator**](https://github.com/Mastmex/86) — Educational project || **Emulator of the Intel&copy; 8086 processor** || *C++/CMake* 
+- [**8086 Emulator**](https://github.com/Mastmex/86) — Educational project || **Emulator of the Intel&copy; 8086 processor** || *C++/CMake*
+- [**Gif container**](https://github.com/Mastmex/gif_container) - Personal project || **Container for gif images for my engine** || *C++/CMake*
 
 ### Contact
 
@@ -53,6 +54,7 @@ C++ • C • CMake • Git • Java • Python • SQL • Docker • Verilog �
 - [**RISC-V процессор**](https://github.com/Mastmex/RISC-V_Verilog) — Учебный проект || **Процессор на базе RISC V** || *Verilog/SystemVerilog*
 - [**Простая ИС**](https://github.com/Mastmex/isod-3) — Учебный проект || **ИС для сбора информации через API** || *C++/Python/bash/Docker*
 - [**Эмулятор 8086**](https://github.com/Mastmex/86) — Учебный проект || **Эмулятор процессора Intel&copy; 8086** || *C++/CMake*
+- [**Gif контейнер**](https://github.com/Mastmex/gif_container) - Личный проект || **Контейнер gif-изображений для моего движка** || *C++/CMake*
 
 ### Контакты
 
